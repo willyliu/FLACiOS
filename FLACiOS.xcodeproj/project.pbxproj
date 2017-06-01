@@ -78,10 +78,8 @@
 		FE271EE215C7072A00B29E74 /* encode.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E5215C7072A00B29E74 /* encode.h */; };
 		FE271EE315C7072A00B29E74 /* foreign_metadata.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E5315C7072A00B29E74 /* foreign_metadata.c */; };
 		FE271EE415C7072A00B29E74 /* foreign_metadata.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E5415C7072A00B29E74 /* foreign_metadata.h */; };
-		FE271EE515C7072A00B29E74 /* iffscan.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E5515C7072A00B29E74 /* iffscan.c */; };
 		FE271EE615C7072A00B29E74 /* local_string_utils.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E5615C7072A00B29E74 /* local_string_utils.c */; };
 		FE271EE715C7072A00B29E74 /* local_string_utils.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E5715C7072A00B29E74 /* local_string_utils.h */; };
-		FE271EE815C7072A00B29E74 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E5815C7072A00B29E74 /* main.c */; };
 		FE271EE915C7072A00B29E74 /* utils.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E5915C7072A00B29E74 /* utils.c */; };
 		FE271EEA15C7072A00B29E74 /* utils.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E5A15C7072A00B29E74 /* utils.h */; };
 		FE271EEB15C7072A00B29E74 /* vorbiscomment.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E5B15C7072A00B29E74 /* vorbiscomment.c */; };
@@ -106,7 +104,6 @@
 		FE271F0815C7072A00B29E74 /* metadata.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7E15C7072A00B29E74 /* metadata.cpp */; };
 		FE271F0915C7072A00B29E74 /* stream_decoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE271E7F15C7072A00B29E74 /* stream_decoder.cpp */; };
 		FE271F0A15C7072A00B29E74 /* stream_encoder.cpp in Sources */ = {isa = PBXBuildFile; fileRef = FE271E8015C7072A00B29E74 /* stream_encoder.cpp */; };
-		FE271F0B15C7072A00B29E74 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E8215C7072A00B29E74 /* main.c */; };
 		FE271F0C15C7072A00B29E74 /* operations.c in Sources */ = {isa = PBXBuildFile; fileRef = FE271E8315C7072A00B29E74 /* operations.c */; };
 		FE271F0D15C7072A00B29E74 /* operations.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E8415C7072A00B29E74 /* operations.h */; };
 		FE271F0E15C7072A00B29E74 /* operations_shorthand.h in Headers */ = {isa = PBXBuildFile; fileRef = FE271E8515C7072A00B29E74 /* operations_shorthand.h */; };
@@ -783,9 +780,7 @@
 				FE271EDF15C7072A00B29E74 /* decode.c in Sources */,
 				FE271EE115C7072A00B29E74 /* encode.c in Sources */,
 				FE271EE315C7072A00B29E74 /* foreign_metadata.c in Sources */,
-				FE271EE515C7072A00B29E74 /* iffscan.c in Sources */,
 				FE271EE615C7072A00B29E74 /* local_string_utils.c in Sources */,
-				FE271EE815C7072A00B29E74 /* main.c in Sources */,
 				FE271EE915C7072A00B29E74 /* utils.c in Sources */,
 				FE271EEB15C7072A00B29E74 /* vorbiscomment.c in Sources */,
 				FE271EED15C7072A00B29E74 /* bitmath.c in Sources */,
@@ -808,7 +803,6 @@
 				FE271F0815C7072A00B29E74 /* metadata.cpp in Sources */,
 				FE271F0915C7072A00B29E74 /* stream_decoder.cpp in Sources */,
 				FE271F0A15C7072A00B29E74 /* stream_encoder.cpp in Sources */,
-				FE271F0B15C7072A00B29E74 /* main.c in Sources */,
 				FE271F0C15C7072A00B29E74 /* operations.c in Sources */,
 				FE271F0F15C7072A00B29E74 /* operations_shorthand_cuesheet.c in Sources */,
 				FE271F1015C7072A00B29E74 /* operations_shorthand_picture.c in Sources */,
