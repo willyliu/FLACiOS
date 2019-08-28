@@ -913,7 +913,7 @@
 				HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT = NO;
 				HEADER_SEARCH_PATHS = (
 					/opt/local/include,
-					"\"${SRCROOT}/libFlac/include\"",
+					"\"${SRCROOT}/libFLAC/include\"",
 				);
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
@@ -939,7 +939,7 @@
 				HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT = NO;
 				HEADER_SEARCH_PATHS = (
 					/opt/local/include,
-					"\"${SRCROOT}/libFlac/include\"",
+					"\"${SRCROOT}/libFLAC/include\"",
 				);
 				OTHER_CPLUSPLUSFLAGS = (
 					"$(OTHER_CFLAGS)",
